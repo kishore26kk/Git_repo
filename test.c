@@ -12,9 +12,5 @@ int main(){
 }
 
 #This is a program that prints some values.
-#and even more comments
-<<<<<<< HEAD
-#Adding the feature from the master branch
-=======
-#Hello 
->>>>>>> 956fc9a (Added hello text)
+#and even more comment
+#Hello
